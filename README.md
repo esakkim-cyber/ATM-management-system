@@ -217,10 +217,3 @@ ATM-Management-System/
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 If you find any issues or have suggestions for improvements, please raise an issue in the GitHub repository. Don't forget to star the project if you found it helpful !
-
-
-## 📄 License
-
-This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
-
----
